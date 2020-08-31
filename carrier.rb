@@ -5,7 +5,7 @@ class Carrier < Formula
   desc "secure edge access overlay network for IoT devices"
   homepage ""
   url "https://github.com/devguardio/carrier/releases/download/0.13/carrier-0.13-x86_64-pc-osx"
-  sha256 "b89945b21a4889ce506dc6aec2291b75fe77ebb3ac82ad168c0b27f021fe5eff"
+  sha256 "c41d8a909a3c184f70db028b8500f888ebe4b5463701c0121b594041701dd08b"
   license ""
 
   def install
